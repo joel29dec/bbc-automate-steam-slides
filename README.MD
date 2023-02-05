@@ -3,6 +3,7 @@
 
 ## Dependencies 
 Autohotkey 1.1.36.02
+
 Chrome x64
 
 This repo contains two AutoHotKey Scripts
